@@ -1,0 +1,1 @@
+import Item1 from '../../images/item1.jpg'
